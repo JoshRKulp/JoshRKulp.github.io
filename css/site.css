@@ -14,11 +14,11 @@ input[type="url"],
 input[type="week"],
 select:focus,
 textarea {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 select {
-    font-size: 50px;
+    font-size: 18px;
 }
 
 .grid {
@@ -38,7 +38,7 @@ select {
 }
 .pizza-special {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
     grid-template-rows: 1fr;
     grid-gap: 10px;
     padding: 10px;
