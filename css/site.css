@@ -1,27 +1,4 @@
-﻿input[type="color"],
-input[type="date"],
-input[type="datetime"],
-input[type="datetime-local"],
-input[type="email"],
-input[type="month"],
-input[type="number"],
-input[type="password"],
-input[type="search"],
-input[type="tel"],
-input[type="text"],
-input[type="time"],
-input[type="url"],
-input[type="week"],
-select:focus,
-textarea {
-    font-size: 50px;
-}
-
-select {
-    font-size: 50px;
-}
-
-.dialog-grid {
+﻿.dialog-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr auto 1fr;
