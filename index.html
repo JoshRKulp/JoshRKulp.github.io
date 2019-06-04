@@ -46,6 +46,11 @@
                 .register('/sw.js')
                 .then(function () { console.log("Service Worker Registered"); });
         }
+
+        window.ShowAlert = (message) => {
+            alert(message);
+        }
+
     </script>
 </body>
 </html>
