@@ -14,11 +14,11 @@ input[type="url"],
 input[type="week"],
 select:focus,
 textarea {
-    font-size: 18px;
+    font-size: 50px;
 }
 
 select {
-    font-size: 18px;
+    font-size: 50px;
 }
 
 .grid {
